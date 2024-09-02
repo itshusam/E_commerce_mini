@@ -1,0 +1,28 @@
+.home-page {
+    background-color: #f8f9fa; 
+    min-height: 100vh; 
+  }
+  
+  .welcome-image {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .shop-btn {
+    font-size: 1.25rem;
+    padding: 0.75rem 1.5rem;
+  }
+  
+  .card {
+    background-color: #fff;
+    border-radius: 8px;
+  }
+  
+  .shadow-lg {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .border-light {
+    border-color: #dee2e6 !important;
+  }
+  
